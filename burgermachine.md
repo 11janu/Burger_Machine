@@ -74,7 +74,7 @@
 </table></td></tr>
 <table><tr><td> <em>Deliverable 4: </em> Misc </td></tr><tr><td><em>Status: </em> <img width="100" height="20" src="https://user-images.githubusercontent.com/54863474/211707773-e6aef7cb-d5b2-4053-bbb1-b09fc609041e.png"></td></tr>
 <tr><td><table><tr><td> <em>Sub-Task 1: </em> Add pull request for the assignment</td></tr>
-<tr><td> <a rel="noreferrer noopener" target="_blank" href="https://github.com/aneeshlanka/IS601/pull/10">https://github.com/aneeshlanka/IS601/pull/10</a> </td></tr>
+<tr><td> <a rel="noreferrer noopener" target="_blank" href="https://github.com/11janu/Burger_Machine/pull/1">https://github.com/11janu/Burger_Machine/pull/1</a> </td></tr>
 <tr><td> <em>Sub-Task 2: </em> Explain any issues/difficulties or something you learned while doing this assignment</td></tr>
 <tr><td> <em>Response:</em> <p class="MsoNormal" style="margin: 0in 0in 8pt; line-height: 16.8667px; font-size: 11pt; font-family: Calibri, sans-serif;"><span<br>style="font-size: 12pt; line-height: 18.4px; font-family: &quot;Times New Roman&quot;, serif;">I have learned to create<br>multiple test cases to thoroughly test a program along with handling the exceptions.<br>I have learnt about usage of lists, functions, pytest fixtures. I have also<br>learned how to create pull requests on GitHub. Additionally, I have gained a<br>better understanding of how to debug code and identify errors. One difficulty I<br>encountered was understanding how to use the pytest library to write test cases.<br>However, I eventually learned how to use it and was able to complete<br>the assignment.<o:p></o:p></span></p><br></td></tr>
 <tr><td> <em>Sub-Task 3: </em> Screenshots of successful output</td></tr>
